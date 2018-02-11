@@ -16,6 +16,7 @@
   position: fixed;
   z-index: 2000;
   top: 50%;
+  margin-top:-1rem;
   left: 0;
   height: 2rem;
   width: 100%;
